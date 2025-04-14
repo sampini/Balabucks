@@ -1,3 +1,4 @@
 /mychain
 /node_modules
+/.venv
 genesis.json
